@@ -11,7 +11,7 @@ h1 {
 
 .flex-container {
   display: flex;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 .half-width {
   width: 50%;
@@ -39,6 +39,7 @@ a {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+  margin-bottom: 50px;
 }
 
 .boxmod {
@@ -62,6 +63,6 @@ a {
   border-top: 7px solid red;
 }
 
-footer p{
-    text-align: center;
+footer p {
+  text-align: center;
 }
