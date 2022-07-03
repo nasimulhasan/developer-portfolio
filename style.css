@@ -55,6 +55,8 @@ a {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
+  margin-bottom: 50px;
+
 }
 #fullstack {
   border-bottom: 7px solid blue;
